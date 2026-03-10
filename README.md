@@ -5,4 +5,4 @@ Backend: Spring Boot
 
 Modules:
 - Admin Management
-- Cart Club System
+- Placement Management
